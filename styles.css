@@ -1,0 +1,48 @@
+.my-bg{
+    background-color: #e9ecef;
+}
+
+#restart-button {
+    margin-top: 0.5em;
+}
+
+table {
+    margin-top: 1em;
+}
+
+td {
+    height: 140px;
+    width: 140px;
+    text-align: center;
+    font-size: 90px;
+}
+
+#one {
+    border: solid black;
+    border-width: 0 5px 5px 0;
+}
+#two {
+    border-right: 5px solid black;
+}
+#three {
+    border-bottom: 5px solid black;
+}
+#four {
+    border-bottom: 5px solid black;
+}
+#five {
+    border: 5px solid black;
+}
+#six {
+    border-bottom: 5px solid black;
+}
+#eight {
+    border: solid black;
+    border-width: 0 5px 0 5px;
+}
+
+#win-message {
+    margin-top: 1em;
+    text-align: center;
+    display: none;
+}
